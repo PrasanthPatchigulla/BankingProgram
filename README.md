@@ -53,6 +53,3 @@ Enter your choice (1-4):
 
 This project is licensed under the MIT License – feel free to use and modify it.
 
----
-
-If you want, I can also add **usage screenshots** and an **example session transcript** to make your repository more appealing.
